@@ -112,7 +112,18 @@ MBA_ROI_ANALYZER
 └── README.md
 
 ---
+## Power BI Dashboard
 
+Features:
+- ROI Analysis of 37 MBA Colleges
+- MBA Tier Comparison
+- Location Filters
+- Payback Period Analysis
+- Fees vs Package Visualization
+
+### Dashboard Preview
+
+![Dashboard](mba_roi_dashboard.png)
 ## Sample Insights
 
 * Identify colleges with the highest ROI.
