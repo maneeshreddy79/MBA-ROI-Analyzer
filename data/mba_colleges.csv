@@ -1,8 +1,38 @@
-College,Fees_Lakhs,Average_Package_LPA
-IIM Ahmedabad,25,35
-IIM Bangalore,24,34
-IIM Calcutta,23,33
-ISB Hyderabad,40,35
-XLRI,22,28
-SPJIMR,20,26
-NMIMS,18,20
+College,Fees_Lakhs,Average_Package_LPA,Location,MBA_Tier
+IIM Ahmedabad,25,35,Ahmedabad,Tier 1
+IIM Bangalore,24,34,Bangalore,Tier 1
+IIM Calcutta,23,33,Kolkata,Tier 1
+ISB Hyderabad,40,35,Hyderabad,Tier 1
+XLRI,22,28,Jamshedpur,Tier 1
+SPJIMR,20,26,Mumbai,Tier 1
+NMIMS,18,20,Mumbai,Tier 1.5
+IIM Lucknow,21,30,Lucknow,Tier 1
+IIM Kozhikode,22,31,Kozhikode,Tier 1
+IIM Indore,20,27,Indore,Tier 1
+IIM Shillong,18,25,Shillong,Tier 1
+FMS Delhi,2,34,Delhi,Tier 1
+MDI Gurgaon,24,28,Gurgaon,Tier 1
+IIFT Delhi,21,27,Delhi,Tier 1
+SIBM Pune,24,26,Pune,Tier 1.5
+IMT Ghaziabad,20,17,Ghaziabad,Tier 1.5
+TAPMI,18,15,Manipal,Tier 2
+Great Lakes Chennai,19,17,Chennai,Tier 2
+GIM Goa,18,15,Goa,Tier 2
+KJ Somaiya,22,13,Mumbai,Tier 2
+FORE School,16,14,Delhi,Tier 2
+LBSIM,14,12,Delhi,Tier 2
+BIM Trichy,12,10,Trichy,Tier 2
+LIBA Chennai,14,11,Chennai,Tier 2
+IFMR,13,10,Chennai,Tier 2
+NIBM Pune,15,12,Pune,Tier 2
+Welingkar,18,12,Mumbai,Tier 2
+XIME Bangalore,12,9,Bangalore,Tier 2
+Jaipuria,11,8,Noida,Tier 2.5
+IPE Hyderabad,10,8,Hyderabad,Tier 2.5
+IBS Hyderabad,17,10,Hyderabad,Tier 2.5
+SCMS Cochin,9,7,Kochi,Tier 2.5
+RVS Institute,8,6,Coimbatore,Tier 2.5
+Alliance University,15,9,Bangalore,Tier 2.5
+Christ University,10,8,Bangalore,Tier 2.5
+Prin L N Welingkar,17,11,Mumbai,Tier 2
+SOIL Gurgaon,14,10,Gurgaon,Tier 2.5

@@ -1,5 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+import numpy as np
 
 # Load Dataset
 df = pd.read_csv("data/mba_colleges.csv")
@@ -43,11 +44,15 @@ df["ROI_Percent"] = (
     df["Salary_Increment"] /
     df["Fees_Lakhs"]
 ) * 100
-
-df["Payback_Years"] = (
+df["ROI_Percent"] = df["ROI_Percent"].round(2)
+df["Payback_Years"] = np.where(
+    df["Salary_Increment"] > 0,
     df["Fees_Lakhs"] /
-    df["Salary_Increment"]
+    df["Salary_Increment"],
+    0
 )
+
+df["Payback_Years"] = df["Payback_Years"].round(2)
 
 print("\nMBA ROI Analysis\n")
 print(df)
